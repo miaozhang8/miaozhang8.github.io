@@ -12,9 +12,10 @@ nav_order: 5
 <hr>
 #### Education
 * Sep 2018 - Present, Ph.D. in pursuit, Computing Science, Simon Fraser University (SFU), Canada
-* Sep 2015 - Jul 2018, M.S., Computer Science and technology, Tsinghua University (THU), China
-* Sep 2011 - Jul 2015, B.Eng., Computer Science and technology, Sichuan University (SCU), China
+* Sep 2015 - Jul 2018, M.S., Computer Science and Technology, Tsinghua University (THU), China
+* Sep 2011 - Jul 2015, B.Eng., Computer Science and Technology, Sichuan University (SCU), China
 <hr>
+
 
 
 
@@ -37,13 +38,14 @@ nav_order: 5
   <li> Faculty of Applied Sciences Graduate Fellowship, SFU, 2020 </li>
   <li> Graduate Fellowship, SFU, 2019 </li>
 	<li> Outstanding Graduate, SCU, 2015 </li>
-	<li> National Scholarship, SCU, 2014 </li>
+	<li> National Scholarship, Ministry of Education, 2014 </li>
 	<li> SCU Class I Scholarship for Excellent Students, 2014 </li>
 	<li> Mathematical Contest in Modeling, Honorable Mention, 2014 </li>
   <li> SCU Class II Scholarship for Excellent Students, 2013 </li>
-  <li> National Scholarship, SCU, 2012 </li>
+  <li> National Scholarship, Ministry of Education, 2012 </li>
   <li> SCU Class I Scholarship for Excellent Students, 2012 </li>
 </ul>
+
 
 <hr>
 
