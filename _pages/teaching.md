@@ -28,10 +28,11 @@ nav_order: 5
 <hr>
 
 
-
 #### Scholarships and Awards
 
 <ul>
+  <li> Graduate Prize in Computing Science, SFU, Fall 2023 </li>
+  <li> Chinese Government Award for Outstanding Self-financed Students Abroad, 2022 </li>
   <li> Graduate Fellowship & CMPT Graduate Fellowships, SFU, 2022 </li>
   <li> GPS Graduate Fellowship, SFU, 2021 Fall </li>
   <li> CMPT Graduate Fellowships, SFU, 2021 Spring </li>
@@ -45,6 +46,23 @@ nav_order: 5
   <li> National Scholarship, Ministry of Education, 2012 </li>
   <li> SCU Class I Scholarship for Excellent Students, 2012 </li>
 </ul>
+
+
+
+<hr>
+
+#### Services
+
+- `Reviewer`
+	- IEEE Transactions on Mobile Computing
+	- IEEE/ACM Transactions on Networking
+	- IEEE Network
+
+- `Student Volunteer`
+	- MMSys 2023
+	- INFOCOM 2021
+
+
 
 
 <hr>

@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2018-09-22 15:59:00-0400
+date: 2022-11-29 18:59:00-0400
 inline: true
 ---
 
-I begin to pursue a Ph.D. degree in computing science at SFU! Fighting!  :sparkles: :smile:
-
+My first website is created!
