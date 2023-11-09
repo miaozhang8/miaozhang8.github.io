@@ -57,7 +57,8 @@ nav_order: 5
 	- IEEE Transactions on Mobile Computing
 	- IEEE/ACM Transactions on Networking
 	- IEEE Network
-
+	- IEEE INFOCOM
+	
 - `Student Volunteer`
 	- MMSys 2023
 	- INFOCOM 2021
