@@ -56,10 +56,14 @@ nav_order: 5
 - `Reviewer`
 	- IEEE Transactions on Mobile Computing
 	- IEEE/ACM Transactions on Networking
+	- IEEE Transactions on Big Data
+	- IEEE Internet of Things Journal
 	- IEEE Network
+	- IEEE Access
 	- IEEE INFOCOM
-	
+	- IEEE Satellite
 - `Student Volunteer`
+	- INFOCOM 2024
 	- MMSys 2023
 	- INFOCOM 2021
 
