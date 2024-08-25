@@ -21,9 +21,10 @@ nav_order: 5
 
 #### Teaching Experiences
 
-* Teaching Assistant for `Multimedia Systems`, Fall 2022.
-* Teaching Assistant for `Computer Simulation and Modelling`, Spring 2021.
-* Teaching Assistant for `Comparative Programming Languages`, Fall 2018.
+* Sessional Instructor, `Computer Network`, National Taiwan University of Science and Technology, Fall 2023.
+* Teaching Assistant, `Multimedia Systems`, SFU, Fall 2022.
+* Teaching Assistant, `Computer Simulation and Modelling`, SFU, Spring 2021.
+* Teaching Assistant, `Comparative Programming Languages`, SFU, Fall 2018.
 
 <hr>
 
