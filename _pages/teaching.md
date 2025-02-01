@@ -7,11 +7,17 @@ nav: true
 nav_order: 5
 ---
 
-
+<hr>
+#### Work Experience
+<ul>
+	<li> Jan 2025 -  Present, Postdoctoral Researcher, Simon Fraser University (SFU), Canada</li>
+	<li> Jul 2017 - Sep 2017, Research Internship, Sensetime (Beijing), China </li>
+</ul>
+<hr>
 
 <hr>
 #### Education
-* Sep 2018 - Present, Ph.D. in pursuit, Computing Science, Simon Fraser University (SFU), Canada
+* Sep 2018 - Dec 2024, Ph.D., Computing Science, SFU, Canada
 * Sep 2015 - Jul 2018, M.S., Computer Science and Technology, Tsinghua University (THU), China
 * Sep 2011 - Jul 2015, B.Eng., Computer Science and Technology, Sichuan University (SCU), China
 <hr>
@@ -19,7 +25,9 @@ nav_order: 5
 
 
 
-#### Teaching Experiences
+
+
+#### Teaching Experience
 
 * Sessional Instructor, `Computer Network`, National Taiwan University of Science and Technology, Fall 2023.
 * Teaching Assistant, `Multimedia Systems`, SFU, Fall 2022.
@@ -67,21 +75,6 @@ nav_order: 5
 	- INFOCOM 2024
 	- MMSys 2023
 	- INFOCOM 2021
-
-
-
-
-<hr>
-
-
-#### Work Experiences
-
-<ul>
-	<li> Research Internship, Sensetime (Beijing), China,  Jul 2017 -- Sep 2017. </li>
-</ul>
-
-
-<hr>
 
 
 #### Summary of Skills

@@ -20,9 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student of the School of Computing Science at Simon Fraser University, supervised by Prof. [Jiangchuan Liu](https://www2.cs.sfu.ca/~jcliu/). 
+I am a postdoctoral researcher at Simon Fraser Uinversity, working with Prof. [Jiangchuan Liu](https://www2.cs.sfu.ca/~jcliu/) on Multimedia Networking. 
 
-Prior to this, I received my M.Eng. degree in Computer Science and Technology from Tsinghua University, supervised by Prof. [Zhi Wang](http://pages.mmlab.top), and my B.Eng. degree in Computer Science and Technology from Sichuan University. 
+Prior to this, I received my Ph.D. degree in Computing Science from Simon Fraser University, supervised by Prof.  [Jiangchuan Liu](https://www2.cs.sfu.ca/~jcliu/), my M.Eng. degree in Computer Science and Technology from Tsinghua University, supervised by Prof. [Zhi Wang](http://pages.mmlab.top), and my B.Eng. degree in Computer Science and Technology from Sichuan University. 
 
 My research interests include cloud and edge computing, multimedia systems, and multimedia applications.
 
