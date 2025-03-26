@@ -6,7 +6,7 @@ subtitle: TASC1 9002, Burnaby campus, <a href='https://www.sfu.ca'>Simon Fraser 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: avatar.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>mza94-{at}-sfu-{dot}-ca</p>
