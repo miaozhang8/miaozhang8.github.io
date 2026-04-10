@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://miaozhang8.github.io/sitemap.xml
