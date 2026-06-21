@@ -322,6 +322,11 @@
 
         .news-list li strong { color: var(--cyan); font-weight: 600; }
 
+        .news-list li.accepted span:last-child::after {
+            content: ' 🎉';
+            margin-left: 0.1rem;
+        }
+
         .news-badge {
             display: inline-block;
             font-size: 0.68rem;
@@ -642,11 +647,19 @@
     <section id="news" class="fade-in">
         <h2 class="section-title">cat news.log</h2>
         <ul class="news-list">
-            <li>
+            <li class="accepted">
+                <span class="news-date">[2026.06]</span>
+                <span>Cervus accepted to <strong>IEEE Transactions on Mobile Computing</strong>.</span>
+            </li>
+            <li class="accepted">
+                <span class="news-date">[2026.04]</span>
+                <span>Sustainable Intelligence for the Wild accepted to <strong>IJCAI 2026</strong>.</span>
+            </li>
+            <li class="accepted">
                 <span class="news-date">[2026.03]</span>
                 <span>CAGS accepted to <strong>ACM SIGGRAPH 2026</strong>.</span>
             </li>
-            <li>
+            <li class="accepted">
                 <span class="news-date">[2026.03]</span>
                 <span>4DGStream accepted to <strong>IEEE Transactions on Multimedia</strong>.</span>
             </li>
@@ -693,6 +706,19 @@
 
         <!-- 2026 -->
         <div class="pub-year">2026</div>
+
+        <div class="pub-item" data-tags="video-analytics">
+            <div class="pub-title">Cervus: Efficient Collaborative Real-time Video Understanding over Dynamic Networks</div>
+            <div class="pub-authors">Z. Li, <span class="me">M. Zhang</span>, Y. Zhu, L. Kong, and J. Liu</div>
+            <div class="pub-venue"><strong>IEEE TMC</strong>, 2026 (To appear)</div>
+            <div class="pub-tags"><span class="pub-tag ccf-a">CCF-A</span></div>
+        </div>
+
+        <div class="pub-item" data-tags="">
+            <div class="pub-title">Sustainable Intelligence for the Wild: Democratizing Ecological Monitoring via Knowledge-Adaptive Edge Expert Agents</div>
+            <div class="pub-authors">J. Li, H. Fang, C. Xu, <span class="me">M. Zhang</span>, J. Liu, W. I. Atlas, K. M. Connors, and M. A. Spoljaric</div>
+            <div class="pub-venue"><strong>IJCAI</strong> 2026 (To appear)</div>
+        </div>
 
         <div class="pub-item" data-tags="immersive">
             <div class="pub-title">CAGS: Color-Adaptive Volumetric Video Streaming with Dynamic 3D Gaussian Splatting</div>
@@ -946,7 +972,7 @@
         </div>
         <div class="service-group">
             <div class="service-label">REVIEWER</div>
-            <div class="service-list">IEEE/ACM ToN, IEEE TMC, IEEE INFOCOM, IEEE IoT-J, IEEE Transactions on Big Data, IEEE Network</div>
+            <div class="service-list">IEEE/ACM ToN, IEEE TMC, IEEE TMM, IEEE INFOCOM, IEEE IoT-J, IEEE Transactions on Big Data, IEEE Network, ACM Multimedia</div>
         </div>
         <div class="service-group">
             <div class="service-label">STUDENT_VOLUNTEER</div>
